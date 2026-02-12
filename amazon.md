@@ -13,3 +13,6 @@ return order
 update profile
 update password
 filter products
+payments modes
+share a product link
+upload image and find similar products
