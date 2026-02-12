@@ -1,18 +1,14 @@
-search products
-signup
+sign up
 login
+search products
 add to cart
 checkout
-suggest product
-whishlist
+suggest products
+wishlist
+payment
 review
-track the order
-customer support
+track order
 order history
-return order
+customer support
 update profile
-update password
 filter products
-payments modes
-share a product link
-upload image and find similar products
